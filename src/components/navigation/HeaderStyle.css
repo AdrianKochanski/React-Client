@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    flex-direction: row nowrap;
+    justify-content: space-between;
+}
+
+.header a {
+    margin: 0 10px;
+    list-style: none;
+    text-decoration: none;
+}
